@@ -1,0 +1,43 @@
+/* Write all your CSS here */
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+nav{
+    display: flex;
+    
+}
+
+.nav-pic{
+    display: flex;
+    flex-direction: column;
+    background-color: #200720;
+     
+}
+
+
+
+a{
+    text-decoration: none;
+    color: grey;;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.side-1{
+    margin-left:-18px;
+
+}
+
+
+
+.side-nav{
+    background-color: #3f0d40;
+   
+}
